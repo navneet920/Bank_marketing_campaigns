@@ -86,11 +86,17 @@ Performance Metrics → Accuracy, classification_report.
 We applied multiple classification algorithms and compared their performance.
 
 📈 Model Comparison (example scores)
+
 Algorithm         	Accuracy	
+
 Logistic Regression	91%
-Decision Tree	88%	
-Random Forest	92%	
+
+Decision Tree	88%
+
+Random Forest	92%
+
 lightboost	91%	
+
 knn    91%
 
 ✅ Random Forest performed the best, giving the highest accuracy and balanced scores across all metrics.
